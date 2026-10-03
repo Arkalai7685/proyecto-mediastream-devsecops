@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Date: Sat, 03 Oct 2026 20:12:53 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"status":"success","role":"VIP_USER","unlocked_content":"Acceso total al catálogo premium concedido"}

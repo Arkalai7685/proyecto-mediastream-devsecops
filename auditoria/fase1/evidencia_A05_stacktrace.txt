@@ -1,0 +1,12 @@
+HTTP/1.1 500 Internal Server Error
+Content-Type: text/plain
+Date: Sat, 03 Oct 2026 20:12:53 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+Error: FATAL: No se pudo conectar a la base de datos en /var/www/mediastream/node_modules/express/lib/router.js:45
+    at Server.<anonymous> (C:\Ev2_DesarrolloSeguro\proyecto-mediastream-devsecops\src\vulnerable\server-vulnerable.js:17:25)
+    at Server.emit (node:events:518:28)
+    at parserOnIncoming (node:_http_server:1153:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
