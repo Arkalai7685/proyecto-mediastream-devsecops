@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
 Content-Type: application/json
-Date: Sun, 04 Oct 2026 21:26:21 GMT
+Date: Sun, 04 Oct 2026 21:31:20 GMT
 Connection: keep-alive
 Keep-Alive: timeout=5
 Transfer-Encoding: chunked
 
-{"status":"VIP_GRANTED","details":"Acceso total a MediaStream"}
+{"status":"Decoder Seguro","library":"ffmpeg-7.0-patched","RCE_risk":"Nulo"}

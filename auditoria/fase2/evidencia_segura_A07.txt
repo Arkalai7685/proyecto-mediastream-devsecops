@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Date: Sun, 04 Oct 2026 21:31:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"reset_link":"https://streamvibe.com/reset?token=c4a760a8-dca3-4a1e-8f55-1f9e61234abc"}

@@ -1,8 +1,8 @@
 HTTP/1.1 403 Forbidden
 Content-Type: application/json
-Date: Sun, 04 Oct 2026 21:30:59 GMT
+Date: Sun, 04 Oct 2026 21:31:23 GMT
 Connection: keep-alive
 Keep-Alive: timeout=5
 Transfer-Encoding: chunked
 
-{"codigo":"SEC-403","error":"Descarga requiere membresía activa."}
+{"codigo":"SEC-403","error":"Dominio de importación no autorizado (SSRF Blocked)."}
